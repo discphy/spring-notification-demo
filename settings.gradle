@@ -1,0 +1,2 @@
+rootProject.name = 'spring-notification-demo'
+include 'apps:api', 'apps:notification'

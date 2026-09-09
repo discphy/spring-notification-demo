@@ -1,0 +1,7 @@
+tasks.named('jar') {
+    enabled = true
+}
+
+springBoot {
+    mainClass = 'com.discphy.NotificationApplication'
+}

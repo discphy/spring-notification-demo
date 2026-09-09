@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':apps:notification')
+}
+
+springBoot {
+    mainClass = 'com.discphy.ApiApplication'
+}
